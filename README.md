@@ -1,4 +1,3 @@
-# pipeline-devops
 Project with all tools to improve a pipeline devops to Java
 
 Configured tools
@@ -13,3 +12,9 @@ Future
 
 - Nexus
 
+
+Instructions
+
+Run
+    
+    docker-compose up -d
